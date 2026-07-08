@@ -4,7 +4,7 @@
     "slug": "granja-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icono2.jpg",
+    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -16,7 +16,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/icono2.jpg",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#9ACD2C"
       },
       "package": "com.luis2002p.granjaapp"
