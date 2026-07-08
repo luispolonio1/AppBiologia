@@ -1,0 +1,27 @@
+{
+  "schedules": [
+    {
+      "animal": "cerdos",
+      "times": [
+        "04:30",
+        "08:00",
+        "18:00"
+      ],
+      "amount": 5
+    },
+    {
+      "animal": "pollos",
+      "times": [
+        "05:17"
+      ],
+      "amount": 1.5
+    },
+    {
+      "animal": "vacas",
+      "times": [
+        "04:05"
+      ],
+      "amount": 10
+    }
+  ]
+}

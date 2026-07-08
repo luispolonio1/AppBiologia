@@ -1,0 +1,70 @@
+{
+  "feedings": [
+    {
+      "id": "pTtPmxjI",
+      "animal": "vacas",
+      "amount": 10,
+      "createdAt": "2026-07-08T09:05:00.015Z",
+      "scheduled": true
+    },
+    {
+      "id": "q8uhQ4VR",
+      "animal": "cerdos",
+      "amount": 5,
+      "createdAt": "2026-07-08T09:30:00.012Z",
+      "scheduled": true
+    },
+    {
+      "id": "_COR3H4V",
+      "animal": "cerdos",
+      "amount": 5,
+      "createdAt": "2026-07-08T09:53:32.983Z"
+    },
+    {
+      "id": "WHNgTnJ2",
+      "animal": "cerdos",
+      "amount": 5,
+      "createdAt": "2026-07-08T10:03:01.759Z"
+    },
+    {
+      "id": "YYXdmdEN",
+      "animal": "cerdos",
+      "amount": 5,
+      "createdAt": "2026-07-08T10:03:14.800Z"
+    },
+    {
+      "id": "8p3_3Xoa",
+      "animal": "pollos",
+      "amount": 1.5,
+      "createdAt": "2026-07-08T10:04:00.009Z",
+      "scheduled": true
+    },
+    {
+      "id": "fKltSZib",
+      "animal": "pollos",
+      "amount": 1.5,
+      "createdAt": "2026-07-08T10:14:00.007Z",
+      "scheduled": true
+    },
+    {
+      "id": "NJkDBg68",
+      "animal": "pollos",
+      "amount": 1.5,
+      "createdAt": "2026-07-08T10:16:00.003Z",
+      "scheduled": true
+    },
+    {
+      "id": "zMJUT0XE",
+      "animal": "pollos",
+      "amount": 1.5,
+      "createdAt": "2026-07-08T10:17:00.020Z",
+      "scheduled": true
+    },
+    {
+      "id": "0AjyfeMk",
+      "animal": "vacas",
+      "amount": 10,
+      "createdAt": "2026-07-08T10:21:33.605Z"
+    }
+  ]
+}
