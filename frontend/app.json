@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "GranjaApp",
+    "name": "FarmSystem",
     "slug": "granja-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icono2.jpg",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -16,15 +16,19 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/icon.png",
+        "foregroundImage": "./assets/icono2.jpg",
         "backgroundColor": "#9ACD2C"
-      }
+      },
+      "package": "com.luis2002p.granjaapp"
     },
     "web": {
       "bundler": "metro"
     },
     "extra": {
-      "apiUrl": "http://192.168.1.9:3000"
+      "apiUrl": "https://appbiologia.onrender.com",
+      "eas": {
+        "projectId": "061a2f17-c2f6-426d-b64d-8f1870d8c320"
+      }
     }
   }
 }
